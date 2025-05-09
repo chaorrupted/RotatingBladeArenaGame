@@ -1,5 +1,5 @@
 # RotatingBladeArenaGame
-Code for a simple survival arena game with the core mechanic of melee weapons rotating around characters, similar to Vampire Survivors.
+Code for a simple survival arena game with the core mechanic of melee weapons rotating around characters, similar to Vampire Survivors. Made in Unity 6.
 
 # Features
 - move your character around the arena. You will not be able to move outside of the level bounds.
