@@ -14,6 +14,9 @@ Code for a simple survival arena game with the core mechanic of melee weapons ro
 - extendable character classes
 - utilities for pickup magnet, game over screens, and various other misc. game tasks
 
+# Controls:
+- Tap and hold, and move your finger in a joystick like motion to move your character.
+
 # About scracthcard:
 The original project also had this scratchcard package: https://assetstore.unity.com/packages/tools/particles-effects/scratch-card-228309 which I modified so that characters and weapons will scratch the 2-layer level background. I'm not publicly sharing these modifications since it would require that I share the source code for this paid asset, and I don't think I'm allowed to do that. If you already paid for this package and are interested in modifying it to scratch using game objects rather than user inputs, you may or may not be able to contact me and ask and I may or may not be able to help you.
 
