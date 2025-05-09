@@ -20,6 +20,8 @@ The original project also had this scratchcard package: https://assetstore.unity
 # how to run the game:
 You'll want to create some required gameobjects and prefabs and arrange the scene as described in this section to be able to build/play the game. You should be able to make out which script goes where and which serialize field is assigned where with some trial and error. Or, you may or may not be able to contact me and ask and I may or may not be able to help you.
 
+You'll also want to discard the meta files included in this repository and let your unity create it's own meta files.
+
 scene layout:
 <img width="289" alt="Screenshot 2025-05-09 at 15 53 57" src="https://github.com/user-attachments/assets/aa26406d-f775-4a3a-a904-d548bc5e78ba" />
 
